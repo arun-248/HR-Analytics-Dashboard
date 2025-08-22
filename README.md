@@ -66,11 +66,3 @@ The **Power BI dashboard** contains multiple interactive pages with the followin
 ## 🛠 Tools & Technologies  
 - **Power BI** → Dashboard development & visualization  
 - **CSV Dataset** → HR employee data  
-- *(Optional)* **Python / Pandas** → Data cleaning & preprocessing  
-
----
-
-## 🚀 How to Use This Project  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
